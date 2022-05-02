@@ -24,5 +24,5 @@ This will be where the source code is normally hosted.
 
 [https://github.com/c9x3/7n4gx53h]
 
-This is where I do webhosting for this prohject.
+This is where I do webhosting for this project.
 
