@@ -14,3 +14,11 @@ Licensing info:
 
 - https://gitlab.com/c9x3/license/-/raw/main/LICENSE.md
 
+# (MAIN) Gitlab repository: 
+
+[https://gitlab.com/c9x3/c9x3s-libre-password-generator]
+
+# Github repository: 
+
+[https://github.com/c9x3/7n4gx53h]
+
