@@ -6,7 +6,7 @@
 
 ➤ This tool features hover-able buttons that show descriptions of what each button does.
 
-Check it out online here: []
+Check it out online here: [https://c9x3.github.io/7n4gx53h/PasswordGenerator.html]
 
 For offline use, just download [https://gitlab.com/c9x3/c9x3s-libre-password-generator/-/archive/main/c9x3s-libre-password-generator-main.tar.gz] and run the, "PasswordGenerator.html" file through your browser! :)
 
